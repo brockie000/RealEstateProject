@@ -32,7 +32,7 @@ export default class Navbar extends Component {
                     <Link to="/">Home</Link>
                     </li> 
                 <li>
-                    <Link to="/houses">Houses</Link>
+                    <Link to="/">Houses</Link>
                     </li> 
                     <li>
                     <Link to="/info">Info</Link>
